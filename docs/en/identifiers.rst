@@ -1,7 +1,7 @@
 Identifiers
 ###########
 
-Identifiers will identify an user or service based on the information
+Identifiers will identify a user or service based on the information
 that was extracted from the request by the authenticators. Identifiers
 can take options in the ``loadIdentifier`` method. A holistic example of
 using the Password Identifier looks like::
